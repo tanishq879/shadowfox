@@ -1,5 +1,5 @@
 # Task 1: Variables (Beginner Level - ShadowFox Internship)
-# Description: Yeh program variables ka use dikhata hai aur Simple Interest calculate karta hai.
+
 
 print("\n--- Variables Task ---")
 
@@ -17,3 +17,4 @@ R = 7      # Rate of Interest
 T = 3      # Time (years)
 simple_interest = (P * R * T) / 100
 print("Simple Interest:", simple_interest)
+
